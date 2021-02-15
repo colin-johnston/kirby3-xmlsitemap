@@ -619,3 +619,4 @@ class XMLSitemap
     return static::class;
   }//end getNameOfClass()
 }//end class
+

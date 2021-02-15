@@ -4,6 +4,12 @@
 
 **Requirement:** Kirby 3.0
 
+## colin-johnston Fork
+
+This fork simply updates the original v1.2.1 version of omz13's plugin to be PSR-4 complaint, and therefore commpatible with Composer 2.x
+
+All credit for this plugin goes to omz13.
+
 ## Coffee, Beer, etc.
 
 A humungous amount of work went into creating this plugin. Seriously it did. Just look at the source code if you dare, because there is a lot going on in there to make _your_ life easier (even if it means that _I_ have to spend days hunched over a keyboard doing this so you don't have to!). Who knew that traversing through all the pages in a kirby 3 site and spitting out the right xml elements could be so much fun (and I use the word fun there in its alternative-reality meaning). If you run a multi-language site you should be jumping up and down with joy because it gets the sitemaps right, and trust me when I say this is not as easy to do as you might think it is. For kicks, and to stop your processor getting hammered because generating process is a bit intense, the result is cached, and writing that cache code involved a lot of coffee. I also get a dopamine hit if you star this repo. So go star it. Pretty please!
